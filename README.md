@@ -34,6 +34,10 @@ Showcases how to create responsive forms in the terminal, giving users instant f
 
 `usermakertui` leverages the power of [Bubble Tea](https://github.com/charmbracelet/bubbletea) to create a form that **validates inputs in real-time**. Users get immediate feedback as they type, with errors highlighted and suggestions displayed dynamically. The example provided shows how you can create a form for user input (e.g., email, password), but the concept can be extended to any kind of terminal-based form.
 
+### **Demo**
+
+![Demo](demo.gif)
+
 ### **Customization**
 
 Want to adapt the real-time form for your own needs? Here’s how you can customize it:
