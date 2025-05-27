@@ -3,11 +3,6 @@
 **A dynamic, real-time form-based TUI built with [Bubble Tea](https://github.com/charmbracelet/bubbletea)!**  
 Showcases how to create responsive forms in the terminal, giving users instant feedback as they type.
 
-## **Features**
-
-- 🖥️ **Interactive Real-Time Form** - Provide immediate, real-time feedback to users as they enter data.
-- 🎨 **Responsive Design** - Built using [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Lip Gloss](https://github.com/charmbracelet/lipgloss) for modern, sleek UIs.
-
 ## **Getting Started**
 
 ### **Installation & Usage**
